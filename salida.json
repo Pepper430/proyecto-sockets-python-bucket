@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "fuente_original": "datos_prueba.csv",
+        "fecha_conversion": "2025-10-07T01:55:41.279051",
+        "registros_procesados": 5
+    },
+    "datos": [
+        {
+            "Nombre": "Ana",
+            "Apellido": "Pérez",
+            "ID_Producto": 101,
+            "Fecha_Compra": "2025-01-10"
+        },
+        {
+            "Nombre": "Juan",
+            "Apellido": "Gómez",
+            "ID_Producto": 102,
+            "Fecha_Compra": "2025-02-10"
+        },
+        {
+            "Nombre": "Luisa",
+            "Apellido": "Martínez",
+            "ID_Producto": 103,
+            "Fecha_Compra": "2025-03-10"
+        },
+        {
+            "Nombre": "Carlos",
+            "Apellido": "Sánchez",
+            "ID_Producto": 104,
+            "Fecha_Compra": "2025-04-10"
+        },
+        {
+            "Nombre": "Sofía",
+            "Apellido": "Rodríguez",
+            "ID_Producto": 105,
+            "Fecha_Compra": "2025-05-10"
+        }
+    ]
+}
